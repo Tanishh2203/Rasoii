@@ -1,0 +1,12 @@
+token.json
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/
+*.log
+.vscode/
+.idea/
+*.swp
+ngrok
