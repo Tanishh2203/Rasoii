@@ -1,6 +1,6 @@
 # Rasoi — The Complete Story
 
-> A voice-first assistant for Swiggy that lets people order food, buy groceries, or convert any recipe into a grocery cart — by talking, typing, or sending a photo. Built on Swiggy's MCP platform. Telegram bot in v1, multi-platform in v2.
+> A voice-first assistant for Swiggy that lets people order food, buy groceries, or convert any recipe into a grocery cart — by talking, typing, or sending a photo. Built on Swiggy's MCP platform. 
 
 ---
 
