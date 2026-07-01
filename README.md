@@ -470,7 +470,7 @@ If starting over:
 
 | Layer | Technology | Why |
 |-------|-----------|-----|
-| **Messaging** | Telegram (python-telegram-bot v21) | Free, instant setup, polling not webhook |
+| **Messaging** | Telegram (python-telegram-bot) | Free, instant setup, polling not webhook |
 | **Speech-to-text** | OpenAI Whisper API | Fast, Hindi-capable, no model download |
 | **Reasoning** | Claude Haiku 4.5 (Anthropic SDK) | Cheap, fast, reliable tool-calling, native MCP |
 | **Supervisor classifier** | Claude Haiku 4.5 (same key) | Tiny per-message routing call, ~200ms |
@@ -482,8 +482,8 @@ If starting over:
 | **Background tracking** | Python asyncio.Task | Native async, survives across turns |
 | **Storage** | JSON files per user | Simple, debuggable, sufficient for v1 |
 | **OAuth** | Swiggy's DCR + PKCE | Standard, no manual provisioning |
-| **Language** | Python 3.10+ async | Required by python-telegram-bot v21+ |
+| **Language** | Python 3.10+ async | Required by python-telegram-bot |
 
 ---
 
-]
+
