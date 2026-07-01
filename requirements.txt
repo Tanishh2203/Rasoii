@@ -4,3 +4,4 @@ anthropic>=0.40.0
 youtube-transcript-api>=0.6.0
 python-telegram-bot>=21.0
 openai>=1.40.0
+sarvamai>=0.1.0
