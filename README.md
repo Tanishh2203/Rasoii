@@ -486,14 +486,4 @@ If starting over:
 
 ---
 
-## 15. Final Note
-
-This is a working prototype shipped in ~14 days by one person. Every flow works end-to-end. Real orders have been placed and tracked. The architecture supports growth without rewrite.
-
-The progression has been deliberate: prove the OAuth, prove the agent, prove the parser, ship the bot, add voice, then add the three "feels real" features (auto-routing, auto-tracking, history awareness). Each phase validated the previous.
-
-If Swiggy's Builders Club is looking for projects demonstrating real engineering on their MCP platform with an India-first user story, Rasoi qualifies. If you're an older user who's struggled with food apps, or a busy professional tired of menus, this is the interface I'd want for you.
-
-Code: [your GitHub URL]
-Demo video: [your Loom URL]
-Contact: [your email]
+]
